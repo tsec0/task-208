@@ -56,6 +56,8 @@ button {
 }
 
 .pricing {
+  height: 300px;
+  width: 400px;
   margin: 10px;
   display: flex;
   flex-direction: column;
@@ -63,5 +65,19 @@ button {
 }
 
 .best-price {
+  margin-top: 20px;
   text-transform: uppercase;
 }
+
+.title {
+  margin: 20px;
+}
+
+.paragraph {
+  padding-top: 20px;
+}
+
+.buttons {
+  padding: 10px 0 0 10px;
+}
+
